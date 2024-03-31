@@ -9,7 +9,6 @@
 </p>
 
 
-<!--내용 부분-->
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
@@ -18,7 +17,7 @@
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/react-20232a?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp -->
   <br>
@@ -38,21 +37,18 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
 
-  <a href="mailto:xotks7524@gmail.com">
+  <a href="mailto:Gmail">
     <img
       src="https://img.shields.io/badge/xotks7524@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
 
-
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiTaeSan&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
+<br>
+<div align="center">
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ChoiTaeSan&theme=tokyonight&show_icons=true" width="42%" />
 </a>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChoiTaeSan)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiTaeSan&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+</div>
