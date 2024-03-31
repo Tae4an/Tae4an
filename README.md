@@ -1,11 +1,10 @@
 <!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=TaeSan+Choi&fontAlign=70)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;&font=Redressed&size=40)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome!;&font=Redressed&size=40">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+TaeSan+Github!;&font=Redressed&size=40">
   </a>
 </p>
 
@@ -53,4 +52,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ChoiTaeSan&theme=tokyonight&show_icons=true" width="42%" />
 </a>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
