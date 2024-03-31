@@ -38,9 +38,9 @@
 </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiTaeSan&show_icons=true&theme=radical)
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiTaeSan&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChoiTaeSan&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
