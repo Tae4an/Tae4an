@@ -42,7 +42,6 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChoiTaeSan&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiTaeSan&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiTaeSan&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
