@@ -1,5 +1,6 @@
 <!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=TaeSan+Choi&fontAlign=70)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
@@ -37,7 +38,7 @@
       src="https://img.shields.io/badge/xotks7524@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChoiTaeSan&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiTaeSan&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
