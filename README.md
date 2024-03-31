@@ -17,7 +17,7 @@
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/react-20232a?style=flat-square&logo=React&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=React&logoColor=61DAFB" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp -->
   <br>
@@ -29,8 +29,8 @@
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Github-181717.svg?style=flat-square&logo=github&logoColor=white" />&nbsp
 </div>
 
 <br>
