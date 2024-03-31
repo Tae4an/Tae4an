@@ -1,7 +1,6 @@
 <!--타이틀 부분-->
-<div align="center">
-  <img src="https://github.com/ChoiTaeSan/ChoiTaeSan/blob/main/github%20%ED%94%84%EB%A1%9C%ED%95%84.png" />
-</div>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
+
 
 <!--내용 부분-->
 <h3 align="center">📚 Tech Stack 📚</h3>
