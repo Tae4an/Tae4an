@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=TaeSan+Choi&fontAlign=70)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?text=Welcome+To+My+Github;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Github;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <!--내용 부분-->
