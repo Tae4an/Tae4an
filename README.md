@@ -3,6 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;&font=Redressed&size=40)](https://git.io/typing-svg)
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome!;&font=Redressed&size=40">
+  </a>
+</p>
+
 
 <!--내용 부분-->
 <h3 align="center">📚 Tech Stack 📚</h3>
@@ -38,8 +44,6 @@
       src="https://img.shields.io/badge/xotks7524@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChoiTaeSan&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
