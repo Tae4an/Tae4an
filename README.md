@@ -27,6 +27,9 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp  -->
 </p>
 
+
+
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white" />&nbsp
@@ -46,9 +49,11 @@
 <br>
 <div align="center">
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoiTaeSan&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChoiTaeSan&theme=tokyonight&show_icons=true" width="40%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiTaeSan&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiTaeSan&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=""/>
 </a>
 </div>
+
+[![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={https://github.com/ChoiTaeSan}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
