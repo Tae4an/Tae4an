@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+TaeSan's+Github!;&font=Redressed&size=40&color=B2CCFF">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+TaeSan's+Github!;&font=Redressed&size=40&color=FFF">
   </a>
 </p>
 
@@ -53,15 +53,16 @@
 </div>
 
 
-<div align="center">
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiTaeSan&count_bg=%236799FF&title_bg=%23002266&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
 
 <div align="center">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xotks7524)](https://solved.ac/xotks7524)
+</div>
+
+<div align="center">
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiTaeSan&count_bg=%23B5B2FF&title_bg=%236B66FF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 <br>
