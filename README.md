@@ -62,9 +62,9 @@
 <br>
 <div align="center">
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoiTaeSan&theme=tokyonight&show_icons=true" width="50%" height=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tae4an&theme=tokyonight&show_icons=true" width="50%" height=""/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiTaeSan&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae4an&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=""/>
 </a>
 </div>
