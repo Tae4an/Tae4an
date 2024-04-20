@@ -65,8 +65,10 @@
 </div>
 
 <br>
+<div align="center">
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tae4an&show_icons=true&include_all_commits=true&bg_color=30,4C4C4C,4641D9&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae4an&layout=compact&bg_color=30,4C4C4C,4641D9&title_color=fff&text_color=fff">
 </p>
+</div>
