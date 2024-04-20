@@ -59,12 +59,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiTaeSan&count_bg=%236799FF&title_bg=%23002266&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-<br>
 <div align="center">
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tae4an&theme=tokyonight&show_icons=true" width="50%" height=""/>
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae4an&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width=""/>
-</a>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xotks7524)](https://solved.ac/xotks7524)
 </div>
+
+<br>
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tae4an&show_icons=true&include_all_commits=true&bg_color=30,4C4C4C,4641D9&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae4an&layout=compact&bg_color=30,4C4C4C,4641D9&title_color=fff&text_color=fff">
+</p>
