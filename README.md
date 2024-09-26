@@ -7,8 +7,12 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+TaeSan's+Github!;&font=Redressed&size=40&color=FFF">
   </a>
 </p>
+<div align="center">
 
-<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiTaeSan&count_bg=%23B5B2FF&title_bg=%236B66FF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
+
 
 <h3 align="center">💻 Tech Stack 💻</h3>
 <p align="center">
@@ -45,23 +49,9 @@
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
 </div>
 
-<br>
-<h3 align="center">📞 Contact 📞</h3>
-<div align="center">
 
-  <a href="mailto:xotks7524@gmail,com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-  </a>
-</div>
-
-<div align="center">
 
 <br>
-<br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoiTaeSan&count_bg=%23B5B2FF&title_bg=%236B66FF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
 <div align="center">
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xotks7524)](https://solved.ac/xotks7524)
