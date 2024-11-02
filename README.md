@@ -51,12 +51,15 @@
 
 
 
-<br>
-<div align="center">
+[//]: # (<br>)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xotks7524)](https://solved.ac/xotks7524)
+[//]: # (<div align="center">)
 
-</div>
+[//]: # ()
+[//]: # ([![Solved.ac 프로필]&#40;http://mazassumnida.wtf/api/v2/generate_badge?boj=xotks7524&#41;]&#40;https://solved.ac/xotks7524&#41;)
+
+[//]: # ()
+[//]: # (</div>)
 
 
 
