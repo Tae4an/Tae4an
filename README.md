@@ -61,6 +61,7 @@
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"/>&nbsp;
 
 </div>
+<h2 align="center"></h2>
 
 [//]: # (<br>)
 
