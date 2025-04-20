@@ -65,7 +65,7 @@
 
 ---
 
-### 🏆 Trophies & Productive Box
+### 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Tae4an&theme=gruvbox&margin-w=5&column=-1">
