@@ -1,10 +1,9 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&animation=fadeIn&section=footer&text=TAESAN+CHOI&fontAlign=50&fontSize=40&fontAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&animation=fadeIn&section=footer&text=Hello+World!&fontAlign=50&fontSize=40&fontAlignY=70)
 
----
 
-### 🛠️ Tech Stack
+### Tech Stack
 <!-- 프로그래밍 언어 -->
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -57,27 +56,7 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/>
 <div align="center">
   
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Tae4an&show_icons=true&include_all_commits=true&bg_color=2E3440,3B4252,434C5E&title_color=88C0D0&text_color=D8DEE9&icon_color=81A1C1">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tae4an&layout=compact&bg_color=2E3440,3B4252,434C5E&title_color=88C0D0&text_color=D8DEE9">
-</p>
-<img width="100%" height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tae4an&theme=nord_dark">
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tae4an&theme=gruvbox&margin-w=5&column=-1">
-
-  <br>
-    <img src="https://raw.githubusercontent.com/Tae4an/Tae4an/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
+![](./profile-3d-contrib/profile-night-green.svg)
 
 [//]: # ()
 [//]: # (### 🌐 Links)
@@ -91,3 +70,14 @@
 
 [//]: # ()
 [//]: # (</div>)
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tae4an/Tae4an/output/github-contribution-grid-snake.svg" alt="snake" />
+  <br>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Tae4an&theme=gruvbox&margin-w=5&column=-1">
+
+</p>
+
+
