@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&animation=fadeIn&section=footer&text=Hello+World!&fontAlign=50&fontSize=40&fontAlignY=70)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=500&speed=80&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hello+World..!" alt="Typing SVG" />
+
+  <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&animation=fadeIn&section=footer&text=Hello+World!&fontAlign=50&fontSize=40&fontAlignY=70) -->
 
 
 ![](./profile-3d-contrib/profile-night-green.svg)
