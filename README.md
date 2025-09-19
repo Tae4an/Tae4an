@@ -3,6 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&animation=fadeIn&section=footer&text=Hello+World!&fontAlign=50&fontSize=40&fontAlignY=70)
 
 
+![](./profile-3d-contrib/profile-night-green.svg)
+
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tae4an/Tae4an/output/github-contribution-grid-snake.svg" alt="snake" />
+  <br>
+
+  
 ### Tech Stack
 <!-- 프로그래밍 언어 -->
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=coffeescript&logoColor=white"/>
@@ -10,9 +19,7 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/><br>
 <!-- 프레임워크 & 라이브러리 -->
 <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
@@ -58,29 +65,25 @@
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <div align="center">
+
   
-![](./profile-3d-contrib/profile-night-green.svg)
+### Certificate
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/192928ba-ac57-49e0-8f16-2226bf6b6d48" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d41de222-5d26-4f3f-99fb-e5133cf309bf" />
 
-[//]: # ()
-[//]: # (### 🌐 Links)
+<br>
 
-[//]: # ()
-[//]: # ([![Tech Blog]&#40;http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://xotks7524.tistory.com&#41;]&#40;https://xotks7524.tistory.com&#41;)
-
-[//]: # ([![Gmail]&#40;https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xotks7524@gmail.com&#41;]&#40;mailto:xotks7524@gmail.com&#41;)
-
-[//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&#41;]&#40;https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&#41;)
-
-[//]: # ()
-[//]: # (</div>)
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tae4an/Tae4an/output/github-contribution-grid-snake.svg" alt="snake" />
-  <br>
+### Links
+[![Tech Blog](https://img.shields.io/badge/Tech-Blog-orange?style=flat-square&logo=tistory)](https://xotks7524.tistory.com)
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:xotks7524@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+<br>
 
   <img src="https://github-profile-trophy.vercel.app/?username=Tae4an&theme=gruvbox&margin-w=5&column=-1">
 
 </p>
+
+
+
 
 
