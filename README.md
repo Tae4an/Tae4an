@@ -19,13 +19,7 @@
 
 <div align="center">
 
-  
-### Certificate
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/192928ba-ac57-49e0-8f16-2226bf6b6d48" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f6a65f2c-b6e9-4286-9b9f-97c81fd9dfbb" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d41de222-5d26-4f3f-99fb-e5133cf309bf" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d742877f-862e-4d25-bba4-d14d038402b8" />
-<br><br>
+<br>
 <details>
   <summary><strong>🌐 주요 대외활동</strong></summary>
   <br />
@@ -67,6 +61,12 @@
   2024 몰입형 SW학기제 정규 교육과정 프로젝트 경진대회 우수상 / 선문대학교 SW중심대학사업단<br>
   2021 ICT융합 해커톤 금상 / 선문대학교 공학교육혁신센터
 </details>
+  
+### Certificate
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/192928ba-ac57-49e0-8f16-2226bf6b6d48" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f6a65f2c-b6e9-4286-9b9f-97c81fd9dfbb" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d41de222-5d26-4f3f-99fb-e5133cf309bf" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d742877f-862e-4d25-bba4-d14d038402b8" />
 
 ### Links
 [![Tech Blog](https://img.shields.io/badge/Tech-Blog-orange?style=for-the-badge&logo=tistory)](https://xotks7524.tistory.com)
