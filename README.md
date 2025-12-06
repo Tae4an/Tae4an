@@ -41,18 +41,30 @@
   클라우드 컴퓨팅(Azure) 교과목 멘토 활동(2025)<br>
   인공지능 끝장 로봇 개발 한마당 AI·SW 서포터즈 활동(2024)<br>
   충남 AI·SW 학생 동아리 한마당 행사 멘토링 활동(2023)<br>
-  청주대학교 x AWS ICT 이노베이션스퀘어 빅테크 교육 수료(2025)<br>
-  몰입형 SW학기제 정규 교육과정 이수(2024, 선문대학교 SW중심대학사업단)<br>
-  심화_생성형 AI 개발자 부트캠프 이수(2024, 애드인에듀)<br>
-  Unity 게임 프로그래밍 이수(2021, 선문대학교 SW융합교육원)<br>
   괌 단기연수(IT·데이터 분석 분야, 2025)
+</details>
+
+<details>
+  <summary><strong>📖 교육 이수</strong></summary>
+  <br />
+
+  **청주대학교 x AWS ICT 이노베이션스퀘어 빅테크 교육 수료(2025)**<br>
+  AWS Technical Essentials, Architecting on AWS, Generative AI Essentials, AWS Agentic AI Foundation 등 주요 커리큘럼 이수<br><br>
+  
+  **몰입형 SW학기제 정규 교육과정 이수(2024, 선문대학교 SW중심대학사업단)**<br>
+  Java·Spring Boot·MySQL 기반 백엔드 개발 및 Naver Cloud Platform 배포 과정 수료<br><br>
+  
+  **심화_생성형 AI 개발자 부트캠프 이수(2024, 애드인에듀)**<br>
+  Python 딥러닝 모델링 및 FastAPI 기반 모델 서빙을 통한 고성능 AI 서비스 구축 역량 교육 이수<br><br>
+  **Unity 게임 프로그래밍 이수(2021, 선문대학교 SW융합교육원)**<br>
+  Unity·C# 기반의 게임 핵심 기능 구현 및 플레이 가능한 프로토타입 개발 프로젝트 수행<br>
 </details>
 
 <details>
   <summary><strong>🏅 수상 경력</strong></summary>
   <br />
 
-  2025 우수작품경진대회 후원기업상 / SW중심대학협의회<br>
+  2025 SW중심대학 우수작품경진대회 후원기업상 / SW중심대학협의회<br>
   2025 기업연계 프로젝트 우수팀 경진대회 대상 / 선문대학교 SW 중심대학사업단<br>
   2025 하계종합학술대회 대학생 논문경진대회 대상 / 한국디지털콘텐츠학회<br>
   2025 선문 창업 IDEA 경진대회 최우수상 / 선문대학교 SW 중심대학사업단<br>
