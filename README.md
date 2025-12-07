@@ -49,13 +49,14 @@
   <br />
 
   **청주대학교 x AWS ICT 이노베이션스퀘어 빅테크 교육 수료(2025)**<br>
-  AWS Technical Essentials, Architecting on AWS, Generative AI Essentials, AWS Agentic AI Foundation 등 주요 커리큘럼 이수<br><br>
+  AWS Technical Essentials, Architecting on AWS, Generative AI Essentials, AWS Agentic AI Foundation 등 주요 커리큘럼 이수<br>
   
   **몰입형 SW학기제 정규 교육과정 이수(2024, 선문대학교 SW중심대학사업단)**<br>
-  Java·Spring Boot·MySQL 기반 백엔드 개발 및 Naver Cloud Platform 배포 과정 수료<br><br>
+  Java·Spring Boot·MySQL 기반 백엔드 개발 및 Naver Cloud Platform 배포 과정 수료<br>
   
   **심화_생성형 AI 개발자 부트캠프 이수(2024, 애드인에듀)**<br>
-  Python 딥러닝 모델링 및 FastAPI 기반 모델 서빙을 통한 고성능 AI 서비스 구축 역량 교육 이수<br><br>
+  Python 딥러닝 모델링 및 FastAPI 기반 모델 서빙을 통한 고성능 AI 서비스 구축 역량 교육 이수<br>
+  
   **Unity 게임 프로그래밍 이수(2021, 선문대학교 SW융합교육원)**<br>
   Unity·C# 기반의 게임 핵심 기능 구현 및 플레이 가능한 프로토타입 개발 프로젝트 수행<br>
 </details>
