@@ -13,13 +13,8 @@
   <img src="https://raw.githubusercontent.com/Tae4an/Tae4an/output/github-contribution-grid-snake.svg" alt="snake" />
   <br>
 
-
-### Tech Stack
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/1646c93f-4c35-416e-9f30-925574322d4f" />
-
 <div align="center">
 
-<br>
 <details>
   <summary><strong>🌐 주요 대외활동</strong></summary>
   <br />
@@ -47,20 +42,30 @@
 
 <details>
   <summary><strong>📖 교육 이수</strong></summary>
-  <br />
+  <br>
 
-  **청주대학교 x AWS ICT 이노베이션스퀘어 빅테크 교육 수료(2025)**<br>
-  AWS Technical Essentials, Architecting on AWS, Generative AI Essentials, AWS Agentic AI Foundation 등 주요 커리큘럼 이수<br>
+  <strong>AWS Technical Essentials 수료 (2025, AWS)</strong><br>
+  EC2, VPC, S3, EBS 등 AWS 핵심 서비스 및 IAM 보안, RDS/DynamoDB, CloudWatch 모니터링<br>
   
-  **몰입형 SW학기제 정규 교육과정 이수(2024, 선문대학교 SW중심대학사업단)**<br>
+  <strong>Architecting on AWS 수료 (2025, AWS)</strong><br>
+  AWS Well-Architected Framework 기반 클라우드 아키텍처 설계 및 구축<br>
+  
+  <strong>Generative AI Essentials 수료 (2025, AWS)</strong><br>
+  Amazon Bedrock 기반 생성형 AI 모델 활용 및 프롬프트 엔지니어링<br>
+  
+  <strong>AWS Agentic AI Foundation 수료 (2025, AWS)</strong><br>
+  Amazon Bedrock Agents를 활용한 AI 에이전트 구축 및 워크플로우 설계<br>
+  
+  <strong>몰입형 SW학기제 정규 교육과정 이수 (2024, 선문대학교 SW중심대학사업단)</strong><br>
   Java·Spring Boot·MySQL 기반 백엔드 개발 및 Naver Cloud Platform 배포 과정 수료<br>
   
-  **심화_생성형 AI 개발자 부트캠프 이수(2024, 애드인에듀)**<br>
+  <strong>심화_생성형 AI 개발자 부트캠프 이수 (2024, 애드인에듀)</strong><br>
   Python 딥러닝 모델링 및 FastAPI 기반 모델 서빙을 통한 고성능 AI 서비스 구축 역량 교육 이수<br>
   
-  **Unity 게임 프로그래밍 이수(2021, 선문대학교 SW융합교육원)**<br>
+  <strong>Unity 게임 프로그래밍 이수 (2021, 선문대학교 SW융합교육원)</strong><br>
   Unity·C# 기반의 게임 핵심 기능 구현 및 플레이 가능한 프로토타입 개발 프로젝트 수행<br>
 </details>
+
 
 <details>
   <summary><strong>🏅 수상 경력</strong></summary>
@@ -91,7 +96,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=lospec&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 <br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Tae4an&theme=gruvbox&margin-w=5&column=-1">
 
 </p>
 
