@@ -81,15 +81,11 @@
   2024 몰입형 SW학기제 정규 교육과정 프로젝트 경진대회 우수상 / 선문대학교 SW중심대학사업단<br>
   2021 ICT융합 해커톤 금상 / 선문대학교 공학교육혁신센터
 </details>
-  
+
 ### Certificate
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/247a2763-6700-4074-b2bb-860400f0c9d0" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/192928ba-ac57-49e0-8f16-2226bf6b6d48" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/13704645-0ad8-4d3a-8906-fd1d7f240910" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f6a65f2c-b6e9-4286-9b9f-97c81fd9dfbb" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d41de222-5d26-4f3f-99fb-e5133cf309bf" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/fc166477-baa2-42b2-a6de-c99954e67ab5" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/d742877f-862e-4d25-bba4-d14d038402b8" />
+<p align="center">
+  <img width="1643" height="417" alt="image" src="https://github.com/user-attachments/assets/0dc6c4a7-79bf-4df3-8add-578cca03f5e6" />
+</p>
 
 ### Links
 [![Tech Blog](https://img.shields.io/badge/Tech-Blog-orange?style=for-the-badge&logo=tistory)](https://xotks7524.tistory.com)
