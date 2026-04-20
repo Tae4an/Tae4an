@@ -16,6 +16,12 @@
 <div align="center">
 
 <details>
+  <summary><strong> 경력</strong></summary>
+  <br />
+  2026.03 ~ 재직중  |  (주)오픈베이스  |  Cloud Solution Architect
+</details>
+
+<details>
   <summary><strong>🌐 주요 대외활동</strong></summary>
   <br />
   아마존 워킹백워드 워크샵 & 기업탐방(2025, AWS)<br>
